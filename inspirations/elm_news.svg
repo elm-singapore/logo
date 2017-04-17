@@ -1,0 +1,6 @@
+<svg height="40px" width="40px" viewBox="0 0 100 100" class="logo">
+	<path d="M 5 0 L 95 0 L 50 55 z" fill="#F0AD00"></path>
+	<path d="M 0 5 L 0 95 L 36.8 50 z" fill="#60B5CC"></path>
+	<path d="M 100 5 L 100 95 L 63.2 50 z" fill="#60B5CC"></path>
+	<path d="M 5 100 L 41.36 55.55 L 50 66.11 L 58.64 55.55 L 95 100 z" fill="#7FD13B"></path>
+</svg>

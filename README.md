@@ -13,6 +13,12 @@
 
 ![logoSG][logoSG]
 
+## More proposals
+
+![merlion][merlion]
+![sg][sg]
+![map][map]
+
 
 [logo]: inspirations/logo.png
 [logo-mono]: inspirations/logo_monochrome.png
@@ -32,3 +38,7 @@
 
 
 [logoSG]: logo_letter/elm_sg.png
+
+[merlion]: logo_merlion_sg_map/elm-logo-merlion.png
+[sg]: logo_merlion_sg_map/elm-logo-sg.png
+[map]: logo_merlion_sg_map/elm-logo-map.png
